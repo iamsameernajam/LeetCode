@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/iamsameernajam/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Counting
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
+| [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -49,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
