@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/iamsameernajam/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Counting
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 ## Matrix
