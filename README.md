@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/iamsameernajam/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3617-find-the-original-typed-string-i](https://github.com/iamsameernajam/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
