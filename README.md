@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/iamsameernajam/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Greedy
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
@@ -91,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
