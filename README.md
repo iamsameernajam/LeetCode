@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0525-contiguous-array](https://github.com/iamsameernajam/LeetCode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Matrix
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/iamsameernajam/LeetCode/tree/master/0525-contiguous-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Tree
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
