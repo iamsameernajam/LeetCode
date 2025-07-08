@@ -140,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
