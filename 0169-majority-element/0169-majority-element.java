@@ -1,25 +1,20 @@
 public class Solution {
 
     public static int majorityElement(int[] nums) {
-        int count = 0;
-        int candidate = 0;
+        HashMap<Integer, Integer> countMap = new HashMap<>();
+        int majorityCount = nums.length / 2;
 
         for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
-            }
+            int count = countMap.getOrDefault(num, 0) + 1;
+            countMap.put(num, count);
 
-            if (num == candidate) {
-                count++;
-            } else {
-                count--;
+            if (count > majorityCount) {
+                return num;
             }
         }
-        return candidate;
+
+        return -1; // No majority element found
     }
 
-    public static void main(String[] args) {
-        int[] nums = {2, 2, 1, 1, 2, 2, 2};
-        System.out.println("Majority Element: " + majorityElement(nums));
-    }
+    
 }
