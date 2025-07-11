@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/iamsameernajam/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Enumeration
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/iamsameernajam/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/iamsameernajam/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/iamsameernajam/LeetCode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
