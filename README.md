@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/iamsameernajam/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/iamsameernajam/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3396-valid-word](https://github.com/iamsameernajam/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/iamsameernajam/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iamsameernajam/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/iamsameernajam/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamsameernajam/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0525-contiguous-array](https://github.com/iamsameernajam/LeetCode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/iamsameernajam/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/iamsameernajam/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
@@ -234,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/iamsameernajam/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/iamsameernajam/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
