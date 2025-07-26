@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
+| [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamsameernajam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/iamsameernajam/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Segment Tree
 |  |
