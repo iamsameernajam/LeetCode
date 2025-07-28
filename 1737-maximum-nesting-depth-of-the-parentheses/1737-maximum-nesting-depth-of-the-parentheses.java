@@ -11,7 +11,7 @@ class Solution {
                 count--;
             }
         }
-        //ans=Math.max(ans,count);
+        //ans=Math.max(ans,count); (string ends without a closing parenthesis (i.e., unbalanced parentheses), the max depth is still captured.)
         return ans;
     }
 }
