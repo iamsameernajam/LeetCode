@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/iamsameernajam/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/iamsameernajam/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/iamsameernajam/LeetCode/tree/master/0136-single-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamsameernajam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/iamsameernajam/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
