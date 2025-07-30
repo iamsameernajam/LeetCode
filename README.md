@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamsameernajam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamsameernajam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0002-add-two-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iamsameernajam/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
