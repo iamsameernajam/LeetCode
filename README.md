@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/iamsameernajam/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
