@@ -27,7 +27,7 @@ public class Solution {
         for (char letter : letters.toCharArray()) {
             current.append(letter);
             backtrack(result, current, digits, index + 1);
-            current.deleteCharAt(current.length() - 1); // backtrack
+            current.deleteCharAt(current.length() - 1);
         }
     }
 }
