@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/iamsameernajam/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
