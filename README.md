@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamsameernajam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/iamsameernajam/LeetCode/tree/master/0134-gas-station) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamsameernajam/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/iamsameernajam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/iamsameernajam/LeetCode/tree/master/0046-permutations) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamsameernajam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamsameernajam/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
