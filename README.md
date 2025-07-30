@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0039-combination-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/iamsameernajam/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 ## Memoization
 |  |
