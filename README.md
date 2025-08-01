@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamsameernajam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/iamsameernajam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamsameernajam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/iamsameernajam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/iamsameernajam/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0002-add-two-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iamsameernajam/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/iamsameernajam/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
