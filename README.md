@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0046-permutations](https://github.com/iamsameernajam/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/iamsameernajam/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/iamsameernajam/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
