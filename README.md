@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0118-pascals-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/iamsameernajam/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/iamsameernajam/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/iamsameernajam/LeetCode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/iamsameernajam/LeetCode/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
