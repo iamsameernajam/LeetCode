@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0072-edit-distance](https://github.com/iamsameernajam/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
+| [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0071-simplify-path](https://github.com/iamsameernajam/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/iamsameernajam/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
