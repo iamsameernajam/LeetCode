@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamsameernajam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/iamsameernajam/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Queue
 |  |
@@ -443,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamsameernajam/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
