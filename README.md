@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/iamsameernajam/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/iamsameernajam/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/iamsameernajam/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0013-roman-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/iamsameernajam/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
