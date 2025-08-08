@@ -6,7 +6,7 @@ class Solution {
                 return nums[i];
             }
         }
-        // If loop didn't return, the unique element is the last one
+      
         return nums[nums.length - 1];
     }
 }
