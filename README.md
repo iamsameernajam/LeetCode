@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
