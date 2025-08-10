@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamsameernajam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamsameernajam/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/iamsameernajam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/iamsameernajam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
 |  |
@@ -508,5 +511,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamsameernajam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
