@@ -1,5 +1,14 @@
 class Solution {
+    
     public boolean isPowerOfThree(int n) {
-        return n>0 && 1162261467 %n==0;
+
+       for(int i=0;i<31;i++){
+        double pow = Math.pow(3,i);
+        if(pow == n){
+            return true;
+        }
+       } 
+
+       return false;
     }
 }
