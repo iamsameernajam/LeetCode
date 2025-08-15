@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0525-contiguous-array](https://github.com/iamsameernajam/LeetCode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/iamsameernajam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0300-longest-increasing-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/iamsameernajam/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
