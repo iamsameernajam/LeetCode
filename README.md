@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0029-divide-two-integers](https://github.com/iamsameernajam/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/iamsameernajam/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/iamsameernajam/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/iamsameernajam/LeetCode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamsameernajam/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/iamsameernajam/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamsameernajam/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamsameernajam/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/iamsameernajam/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamsameernajam/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamsameernajam/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
