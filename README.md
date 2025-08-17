@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/iamsameernajam/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0438-find-all-anagrams-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0867-new-21-game](https://github.com/iamsameernajam/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/iamsameernajam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/iamsameernajam/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/iamsameernajam/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0342-power-of-four](https://github.com/iamsameernajam/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/iamsameernajam/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/iamsameernajam/LeetCode/tree/master/0867-new-21-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
