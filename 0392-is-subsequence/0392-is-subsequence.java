@@ -8,6 +8,9 @@ class Solution {
             }
             tp++;
         }
-        return sp==s.length();
+        if(sp==s.length()){
+            return true;
+        }
+        return false;
     }
 }
