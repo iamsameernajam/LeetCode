@@ -4,7 +4,7 @@ class Solution {
         StringBuilder repeated = new StringBuilder(word);
         while (sequence.contains(repeated.toString())) {
             count++;
-            repeated.append(word); // Add another repetition
+            repeated.append(word);
         }
 
         return count;
