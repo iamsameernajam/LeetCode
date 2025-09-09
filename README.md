@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamsameernajam/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamsameernajam/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/iamsameernajam/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamsameernajam/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0289-game-of-life](https://github.com/iamsameernajam/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/iamsameernajam/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/iamsameernajam/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
