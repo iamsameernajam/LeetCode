@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0072-edit-distance](https://github.com/iamsameernajam/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/iamsameernajam/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsameernajam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/iamsameernajam/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/iamsameernajam/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0118-pascals-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsameernajam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/iamsameernajam/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0138-copy-list-with-random-pointer](https://github.com/iamsameernajam/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/iamsameernajam/LeetCode/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamsameernajam/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamsameernajam/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
@@ -528,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/iamsameernajam/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
