@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0063-unique-paths-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/iamsameernajam/LeetCode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/iamsameernajam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/iamsameernajam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamsameernajam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -399,11 +401,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/iamsameernajam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/iamsameernajam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamsameernajam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0043-multiply-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/iamsameernajam/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/iamsameernajam/LeetCode/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/iamsameernajam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/iamsameernajam/LeetCode/tree/master/0231-power-of-two) |
