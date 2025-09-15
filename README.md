@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1006-vowel-spellchecker](https://github.com/iamsameernajam/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/iamsameernajam/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamsameernajam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/iamsameernajam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/iamsameernajam/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/iamsameernajam/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1813-maximum-erasure-value](https://github.com/iamsameernajam/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamsameernajam/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
