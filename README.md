@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/iamsameernajam/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/iamsameernajam/LeetCode/tree/master/0867-new-21-game) |
