@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0038-count-and-say](https://github.com/iamsameernajam/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/iamsameernajam/LeetCode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/iamsameernajam/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/iamsameernajam/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/iamsameernajam/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/iamsameernajam/LeetCode/tree/master/0072-edit-distance) |
