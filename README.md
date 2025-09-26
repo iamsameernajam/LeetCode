@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0134-gas-station](https://github.com/iamsameernajam/LeetCode/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsameernajam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/iamsameernajam/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/iamsameernajam/LeetCode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/iamsameernajam/LeetCode/tree/master/0679-24-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsameernajam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0287-find-the-duplicate-number](https://github.com/iamsameernajam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamsameernajam/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0287-find-the-duplicate-number](https://github.com/iamsameernajam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
