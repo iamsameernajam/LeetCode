@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0679-24-game](https://github.com/iamsameernajam/LeetCode/tree/master/0679-24-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0830-largest-triangle-area](https://github.com/iamsameernajam/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/iamsameernajam/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0679-24-game](https://github.com/iamsameernajam/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/iamsameernajam/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/iamsameernajam/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/iamsameernajam/LeetCode/tree/master/0923-super-egg-drop) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/iamsameernajam/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Number Theory
 |  |
