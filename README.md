@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0045-jump-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/iamsameernajam/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/iamsameernajam/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/iamsameernajam/LeetCode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/iamsameernajam/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
