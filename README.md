@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamsameernajam/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamsameernajam/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/iamsameernajam/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1448-maximum-69-number](https://github.com/iamsameernajam/LeetCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamsameernajam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0289-game-of-life](https://github.com/iamsameernajam/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/iamsameernajam/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/iamsameernajam/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -714,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
