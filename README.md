@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0202-happy-number](https://github.com/iamsameernajam/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/iamsameernajam/LeetCode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/iamsameernajam/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/iamsameernajam/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/iamsameernajam/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/iamsameernajam/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/iamsameernajam/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/iamsameernajam/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/iamsameernajam/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
