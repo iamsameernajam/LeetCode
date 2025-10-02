@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0142-linked-list-cycle-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamsameernajam/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/iamsameernajam/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/iamsameernajam/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/iamsameernajam/LeetCode/tree/master/0290-word-pattern) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/iamsameernajam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/iamsameernajam/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/iamsameernajam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0096-unique-binary-search-trees](https://github.com/iamsameernajam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamsameernajam/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/iamsameernajam/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/iamsameernajam/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamsameernajam/LeetCode/tree/master/0326-power-of-three) |
