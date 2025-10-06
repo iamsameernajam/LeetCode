@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/iamsameernajam/LeetCode/tree/master/0679-24-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/iamsameernajam/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0407-trapping-rain-water-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamsameernajam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamsameernajam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0023-merge-k-sorted-lists](https://github.com/iamsameernajam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamsameernajam/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0923-super-egg-drop](https://github.com/iamsameernajam/LeetCode/tree/master/0923-super-egg-drop) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamsameernajam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamsameernajam/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
@@ -604,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamsameernajam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
 |  |
@@ -745,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
