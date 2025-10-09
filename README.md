@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamsameernajam/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamsameernajam/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iamsameernajam/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/iamsameernajam/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iamsameernajam/LeetCode/tree/master/3827-implement-router) |
 ## Dynamic Programming
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2529-range-product-queries-of-powers](https://github.com/iamsameernajam/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamsameernajam/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iamsameernajam/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Tree
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3336-water-bottles-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iamsameernajam/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
 | ------- |
