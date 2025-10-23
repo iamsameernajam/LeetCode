@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/iamsameernajam/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/iamsameernajam/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/iamsameernajam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/iamsameernajam/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/iamsameernajam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/iamsameernajam/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/iamsameernajam/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsameernajam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -826,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/iamsameernajam/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/iamsameernajam/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/iamsameernajam/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
