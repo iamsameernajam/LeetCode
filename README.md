@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1448-maximum-69-number](https://github.com/iamsameernajam/LeetCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/iamsameernajam/LeetCode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/iamsameernajam/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
