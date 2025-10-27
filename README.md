@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0063-unique-paths-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/iamsameernajam/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/iamsameernajam/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/iamsameernajam/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0054-spiral-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/iamsameernajam/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/iamsameernajam/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/iamsameernajam/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/iamsameernajam/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
