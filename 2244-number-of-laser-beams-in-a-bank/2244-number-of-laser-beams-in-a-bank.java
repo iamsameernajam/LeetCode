@@ -5,7 +5,7 @@ class Solution {
         
         for (String row : bank) {
             long cnt = 0;
-            for (int i = 0; i < row.length(); ++i) {
+            for (int i = 0; i < row.length(); i++) {
                 if (row.charAt(i) == '1') cnt++;
             }
             if (cnt > 0) {
