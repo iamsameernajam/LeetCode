@@ -1,8 +1,6 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         int arr[] = new int[26];
-
-        
         for (int i = 0; i<ransomNote.length(); i++) {
             char r = ransomNote.charAt(i);
             arr[r - 'a']++;
