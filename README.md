@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1448-maximum-69-number](https://github.com/iamsameernajam/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/iamsameernajam/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamsameernajam/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamsameernajam/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/iamsameernajam/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamsameernajam/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1628-count-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1764-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0224-basic-calculator](https://github.com/iamsameernajam/LeetCode/tree/master/0224-basic-calculator) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Geometry
 |  |
 | ------- |
