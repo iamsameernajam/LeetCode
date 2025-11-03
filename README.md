@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamsameernajam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iamsameernajam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iamsameernajam/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1764-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/iamsameernajam/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iamsameernajam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamsameernajam/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamsameernajam/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iamsameernajam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/iamsameernajam/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamsameernajam/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iamsameernajam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamsameernajam/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
