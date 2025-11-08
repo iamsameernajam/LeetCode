@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iamsameernajam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamsameernajam/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamsameernajam/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamsameernajam/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/iamsameernajam/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamsameernajam/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamsameernajam/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
