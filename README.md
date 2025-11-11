@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1006-vowel-spellchecker](https://github.com/iamsameernajam/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsameernajam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
