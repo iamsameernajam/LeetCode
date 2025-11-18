@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/iamsameernajam/LeetCode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/iamsameernajam/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
