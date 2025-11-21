@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsameernajam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/iamsameernajam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
