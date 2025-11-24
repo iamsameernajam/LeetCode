@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0923-super-egg-drop](https://github.com/iamsameernajam/LeetCode/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamsameernajam/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/iamsameernajam/LeetCode/tree/master/0923-super-egg-drop) |
 | [1018-largest-perimeter-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iamsameernajam/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/iamsameernajam/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/iamsameernajam/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iamsameernajam/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
