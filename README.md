@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/iamsameernajam/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1668-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iamsameernajam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iamsameernajam/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamsameernajam/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1668-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iamsameernajam/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String Matching
 |  |
 | ------- |
+| [1668-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1764-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Probability and Statistics
 |  |
