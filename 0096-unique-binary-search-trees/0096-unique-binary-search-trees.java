@@ -3,8 +3,12 @@ class Solution {
         if (n <= 1) return 1;  
 
         int res = 0;
-        for (int i = 0; i <n; i++) {
-        res+=numTrees(i)*numTrees(n-i-1);   
+
+    
+        for (int i = 1; i <= n; i++) {
+            int left = numTrees(i - 1);  
+            int right = numTrees(n - i);    
+            res += left * right;          
         }
 
         return res;
