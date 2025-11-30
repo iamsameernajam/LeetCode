@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/iamsameernajam/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamsameernajam/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/iamsameernajam/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/iamsameernajam/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1015-smallest-integer-divisible-by-k](https://github.com/iamsameernajam/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iamsameernajam/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/iamsameernajam/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/iamsameernajam/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1813-maximum-erasure-value](https://github.com/iamsameernajam/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0209-minimum-size-subarray-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/iamsameernajam/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/iamsameernajam/LeetCode/tree/master/0525-contiguous-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/iamsameernajam/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
