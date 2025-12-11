@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0290-word-pattern](https://github.com/iamsameernajam/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/iamsameernajam/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/iamsameernajam/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/iamsameernajam/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/iamsameernajam/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0290-word-pattern](https://github.com/iamsameernajam/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/iamsameernajam/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/iamsameernajam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
