@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iamsameernajam/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iamsameernajam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iamsameernajam/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamsameernajam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iamsameernajam/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamsameernajam/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/iamsameernajam/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/iamsameernajam/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -833,10 +835,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iamsameernajam/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2092-find-all-people-with-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1006,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/iamsameernajam/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Bitmask
 |  |
 | ------- |
