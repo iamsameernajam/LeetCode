@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/iamsameernajam/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/iamsameernajam/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamsameernajam/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/iamsameernajam/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/iamsameernajam/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1006-vowel-spellchecker](https://github.com/iamsameernajam/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
