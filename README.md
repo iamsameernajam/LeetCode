@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/iamsameernajam/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/iamsameernajam/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/iamsameernajam/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamsameernajam/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0944-delete-columns-to-make-sorted](https://github.com/iamsameernajam/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/iamsameernajam/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/iamsameernajam/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iamsameernajam/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0923-super-egg-drop](https://github.com/iamsameernajam/LeetCode/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/iamsameernajam/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamsameernajam/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
