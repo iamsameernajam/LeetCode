@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0014-longest-common-prefix](https://github.com/iamsameernajam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsameernajam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/iamsameernajam/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/iamsameernajam/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0043-multiply-strings) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamsameernajam/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamsameernajam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamsameernajam/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/iamsameernajam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/iamsameernajam/LeetCode/tree/master/0143-reorder-list) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1764-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Probability and Statistics
