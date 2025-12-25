@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0119-pascals-triangle-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamsameernajam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/iamsameernajam/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/iamsameernajam/LeetCode/tree/master/0198-house-robber) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamsameernajam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamsameernajam/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/iamsameernajam/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/iamsameernajam/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamsameernajam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0100-same-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamsameernajam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
