@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/iamsameernajam/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/iamsameernajam/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iamsameernajam/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/iamsameernajam/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/iamsameernajam/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/iamsameernajam/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2689-rearranging-fruits](https://github.com/iamsameernajam/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/iamsameernajam/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iamsameernajam/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/iamsameernajam/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iamsameernajam/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamsameernajam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2689-rearranging-fruits](https://github.com/iamsameernajam/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iamsameernajam/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/iamsameernajam/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3433-count-mentions-per-user](https://github.com/iamsameernajam/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/iamsameernajam/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
