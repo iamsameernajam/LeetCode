@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/iamsameernajam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/iamsameernajam/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/iamsameernajam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1082,4 +1083,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0274-h-index](https://github.com/iamsameernajam/LeetCode/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/iamsameernajam/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
