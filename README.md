@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamsameernajam/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/iamsameernajam/LeetCode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1018-largest-perimeter-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
+| [1390-four-divisors](https://github.com/iamsameernajam/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/iamsameernajam/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
