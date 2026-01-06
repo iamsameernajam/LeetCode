@@ -1,0 +1,31 @@
+class Solution {
+    public int maxLevelSum(TreeNode root) {
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        int level = 1;
+        int answerLevel = 1;
+        int maxSum = Integer.MIN_VALUE;
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+            int levelSum = 0;
+
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
+                levelSum += node.val;
+
+                if (node.left != null) q.add(node.left);
+                if (node.right != null) q.add(node.right);
+            }
+
+            if (levelSum > maxSum) {
+                maxSum = levelSum;
+                answerLevel = level;
+            }
+
+            level++;
+        }
+        return answerLevel;
+    }
+}
