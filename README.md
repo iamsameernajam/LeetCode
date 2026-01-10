@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0438-find-all-anagrams-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/iamsameernajam/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0494-target-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/iamsameernajam/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
