@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0073-set-matrix-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/iamsameernajam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/iamsameernajam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0055-jump-game](https://github.com/iamsameernajam/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/iamsameernajam/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/iamsameernajam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/iamsameernajam/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/iamsameernajam/LeetCode/tree/master/0097-interleaving-string) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0073-set-matrix-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/iamsameernajam/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/iamsameernajam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/iamsameernajam/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/iamsameernajam/LeetCode/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/iamsameernajam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/iamsameernajam/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/iamsameernajam/LeetCode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/iamsameernajam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/iamsameernajam/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamsameernajam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/iamsameernajam/LeetCode/tree/master/0155-min-stack) |
@@ -1080,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/iamsameernajam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/iamsameernajam/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamsameernajam/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
