@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1018-binary-prefix-divisible-by-5](https://github.com/iamsameernajam/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamsameernajam/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamsameernajam/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamsameernajam/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/iamsameernajam/LeetCode/tree/master/1390-four-divisors) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1018-largest-perimeter-triangle](https://github.com/iamsameernajam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/iamsameernajam/LeetCode/tree/master/1086-divisor-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamsameernajam/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/iamsameernajam/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamsameernajam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/iamsameernajam/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamsameernajam/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/iamsameernajam/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
