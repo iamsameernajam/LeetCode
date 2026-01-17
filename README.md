@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2689-rearranging-fruits](https://github.com/iamsameernajam/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/iamsameernajam/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/iamsameernajam/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/iamsameernajam/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iamsameernajam/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/iamsameernajam/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iamsameernajam/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2432-number-of-zero-filled-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/iamsameernajam/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/iamsameernajam/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/iamsameernajam/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iamsameernajam/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamsameernajam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0830-largest-triangle-area](https://github.com/iamsameernajam/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamsameernajam/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/iamsameernajam/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/iamsameernajam/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
