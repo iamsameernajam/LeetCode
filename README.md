@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2429-design-a-food-rating-system](https://github.com/iamsameernajam/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/iamsameernajam/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/iamsameernajam/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/iamsameernajam/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/iamsameernajam/LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2689-rearranging-fruits](https://github.com/iamsameernajam/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/iamsameernajam/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/iamsameernajam/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/iamsameernajam/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/iamsameernajam/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iamsameernajam/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/iamsameernajam/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/iamsameernajam/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1178,4 +1181,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/iamsameernajam/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
