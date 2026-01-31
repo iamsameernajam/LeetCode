@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0679-24-game](https://github.com/iamsameernajam/LeetCode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/iamsameernajam/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/iamsameernajam/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/iamsameernajam/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0493-reverse-pairs](https://github.com/iamsameernajam/LeetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/iamsameernajam/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/iamsameernajam/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamsameernajam/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
