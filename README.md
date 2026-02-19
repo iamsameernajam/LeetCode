@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0438-find-all-anagrams-in-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/iamsameernajam/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/iamsameernajam/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/iamsameernajam/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/iamsameernajam/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamsameernajam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamsameernajam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
