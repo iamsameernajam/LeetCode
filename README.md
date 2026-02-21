@@ -830,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iamsameernajam/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/iamsameernajam/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamsameernajam/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iamsameernajam/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0342-power-of-four](https://github.com/iamsameernajam/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/iamsameernajam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0679-24-game](https://github.com/iamsameernajam/LeetCode/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamsameernajam/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/iamsameernajam/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/iamsameernajam/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/iamsameernajam/LeetCode/tree/master/0840-magic-squares-in-grid) |
