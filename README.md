@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/iamsameernajam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/iamsameernajam/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamsameernajam/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/iamsameernajam/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/iamsameernajam/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0794-swim-in-rising-water](https://github.com/iamsameernajam/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iamsameernajam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/iamsameernajam/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/iamsameernajam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
