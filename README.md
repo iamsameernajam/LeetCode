@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0451-sort-characters-by-frequency](https://github.com/iamsameernajam/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamsameernajam/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/iamsameernajam/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamsameernajam/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/iamsameernajam/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/iamsameernajam/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3713-longest-balanced-substring-i](https://github.com/iamsameernajam/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamsameernajam/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamsameernajam/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/iamsameernajam/LeetCode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamsameernajam/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1200-minimum-absolute-difference](https://github.com/iamsameernajam/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamsameernajam/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamsameernajam/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamsameernajam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iamsameernajam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iamsameernajam/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0868-binary-gap](https://github.com/iamsameernajam/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamsameernajam/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iamsameernajam/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamsameernajam/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamsameernajam/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
