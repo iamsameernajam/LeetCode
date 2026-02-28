@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamsameernajam/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamsameernajam/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamsameernajam/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamsameernajam/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamsameernajam/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamsameernajam/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/iamsameernajam/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/iamsameernajam/LeetCode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/iamsameernajam/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/iamsameernajam/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/iamsameernajam/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/iamsameernajam/LeetCode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/iamsameernajam/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/iamsameernajam/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/iamsameernajam/LeetCode/tree/master/2169-simple-bank-system) |
