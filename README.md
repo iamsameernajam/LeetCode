@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamsameernajam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamsameernajam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamsameernajam/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamsameernajam/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/iamsameernajam/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/iamsameernajam/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1668-maximum-repeating-substring](https://github.com/iamsameernajam/LeetCode/tree/master/1668-maximum-repeating-substring) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0231-power-of-two](https://github.com/iamsameernajam/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamsameernajam/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/iamsameernajam/LeetCode/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamsameernajam/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamsameernajam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iamsameernajam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0289-game-of-life](https://github.com/iamsameernajam/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/iamsameernajam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/iamsameernajam/LeetCode/tree/master/0867-transpose-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamsameernajam/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/iamsameernajam/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamsameernajam/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/iamsameernajam/LeetCode/tree/master/1929-concatenation-of-array) |
